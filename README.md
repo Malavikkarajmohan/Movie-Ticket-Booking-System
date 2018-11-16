@@ -10,6 +10,8 @@ The application has the following functionalities:
 * booking a ticket
 * card registrations
 
+Check out the [code](https://github.com/Malavikka/Movie-Ticket-Booking-System/blob/master/Movie_Ticket_System.cpp)!
+
 ## Features
 
 ### Main Menu
@@ -35,3 +37,13 @@ Takes the users details to enable card payement.
 Allows user to register for a DT card with special benefits
 
 ![](/images/card_registration.png)
+
+# Authors
+
+* Malavikka R
+* Sirisha Lanka
+
+# References
+
+* Computer Science with C++ by Sunita Arora
+
