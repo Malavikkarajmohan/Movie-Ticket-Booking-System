@@ -1,1 +1,37 @@
-# Movie-Ticket-Booking-System
+# Movie Ticket Booking System in C++
+
+## Overview
+
+The main purpose of an online ticket booking system is to provide an alternate and convenient way for a customer to buy cinema tickets.
+This project is built in c++ using concepts of `classes`, `objects` and `inheritance`.
+
+The application has the following functionalities:
+* viewing the timings
+* booking a ticket
+* card registrations
+
+## Features
+
+### Main Menu
+
+A User can choose from a list of functionalities
+
+![](/images/main_menu)
+
+### Movie Menu
+
+A User can choose from various movies and show timings
+
+![](/images/movie_menu)
+
+### Card Payment Management
+
+Takes the users details to enable card payement.
+
+![](/images/card_payment)
+
+## Card Registration
+
+Allows user to register for a DT card with special benefits
+
+![](/images/card_registration)
