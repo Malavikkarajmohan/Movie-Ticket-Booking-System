@@ -16,22 +16,22 @@ The application has the following functionalities:
 
 A User can choose from a list of functionalities
 
-![](/images/main_menu)
+![](/images/main_menu.png)
 
 ### Movie Menu
 
 A User can choose from various movies and show timings
 
-![](/images/movie_menu)
+![](/images/movie_menu.png)
 
 ### Card Payment Management
 
 Takes the users details to enable card payement.
 
-![](/images/card_payment)
+![](/images/card_payment.png)
 
 ## Card Registration
 
 Allows user to register for a DT card with special benefits
 
-![](/images/card_registration)
+![](/images/card_registration.png)
